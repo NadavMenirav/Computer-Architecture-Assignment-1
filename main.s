@@ -1,4 +1,4 @@
-# Nadav Menirav 330845678
+# Nadav Menirav
 .section .data
 user_seed:
 	.quad 0
